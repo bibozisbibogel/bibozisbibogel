@@ -26,11 +26,11 @@ I enjoy building clean, scalable applications and integrating AI into real-world
 
 ###  Extracurricular Activities
 - Winner - NASA Space Apps Craiova Hackathon 2025
-- 3rd place - CISM Timisoara 2024 (chess)
-- Finalist - CodeGolf by NetROM 2025
 - Qualified for SEERC 2025
+- Finalist - CodeGolf by NetROM 2025
+- 3rd place - CISM Timisoara 2024 
 - Member of PCA (Competitive Programming Group), NetROM Scholarship recipient
-- Competitions participated: RCPC 2025, iTEC 2025, CCC 2023–2024, Reply 2023, Advent of Code 2024
+- Competitions participated: RCPC 2024-2025, iTEC 2025, CCC 2023–2024, Reply 2023, Advent of Code 2024, CISM 2023
 
 ---
 
