@@ -45,7 +45,7 @@ I enjoy building clean, scalable applications and integrating AI into real-world
 | Edit Distance App | C, LaTeX | Implementation solving a custom Levenshtein distance problem |
 | Vaccines System | C, LaTeX | Vaccine management system written in C |
 | Weather App | Python, PyQt5, OpenWeatherMap API | Live data weather GUI application |
-| Unity Games | C#, Unity | RollABall, Tanks, John Lemon and others |
+| Unity Games | C#, Unity | RollABall, Tanks & John Lemon |
 
 ---
 
