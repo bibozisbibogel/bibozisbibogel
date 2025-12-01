@@ -10,7 +10,6 @@ I enjoy building clean, scalable applications and integrating AI into real-world
 - Backend development using FastAPI & Uvicorn
 - RAG systems with LangChain and LangGraph
 - Competitive Programming in C++
-- Game development basics with Unity (C#)
 
 ---
 
