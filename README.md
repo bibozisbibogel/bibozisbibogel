@@ -66,7 +66,7 @@ I enjoy building clean, scalable applications and integrating AI into real-world
 - Git & GitHub
 - n8n automation workflows
 - Backend stack: FastAPI + Uvicorn
-- AI frameworks: LangChain, LangGraph, RAG
+- AI frameworks: LangChain, LangGraph
 - Unity (game development fundamentals)
 
 ---
